@@ -18,13 +18,13 @@ public class RandomSpawn : MonoBehaviour
 		{
 			Instantiate(Object, Location);
 			ToSpawn = false;
-			StartCoroutine(ToSpawnTrue());
+			// StartCoroutine(ToSpawnTrue());
 		}
 	}
 
-	IEnumerator ToSpawnTrue()
-	{
-		yield return new WaitForSeconds(0.75f);
-		ToSpawn = true;
-	}
+	// IEnumerator ToSpawnTrue()
+	// {
+	// 	yield return new WaitForSeconds(0.75f);
+	// 	ToSpawn = true;
+	// }
 }
