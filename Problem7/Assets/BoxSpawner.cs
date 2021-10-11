@@ -15,7 +15,7 @@ public class BoxSpawner : MonoBehaviour
         spawnedBox = new List<GameObject>(0);
 
         //GenerateBox for Problem 6
-        int boxCount = Random.Range(10, 30);
+        int boxCount = Random.Range(5, 10);
         for (int i = 0; i <= boxCount; i++)
         {
             float posX = Random.Range(-boxTemplateWidth / 2, boxTemplateWidth / 2);
