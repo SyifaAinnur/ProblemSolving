@@ -1,4 +1,5 @@
 # ProblemSolving
+File Build di Release
 
 Problem 1 Buatlah lingkaran (atau sphere) di tengah layar
 
@@ -19,3 +20,5 @@ Problem 8 Munculkan lagi kotak yang sudah tertabrak, 3 detik setelah tertabrak d
 Problem 9 Kembangkan hasil pekerjaan menjadi sebuah game sebisa kalian, pastikan kalian juga memikirkan hal-hal yang bisa membuat sebuah game yang bagus, bukan hanya spesifikasi teknis yang diberikan.
 
 Problem 10 Buat satu build berisi menu selection untuk mengakses semua build.
+
+
